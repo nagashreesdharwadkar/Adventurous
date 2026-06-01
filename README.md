@@ -1,4 +1,4 @@
-# 🌍 Adventurous - Vacation Rental Platform
+# 🌍 	Adventurous | Full-Stack Vacation Rental Platform 
 
 **Adventurous** is a full-stack web application that helps users find, explore, and book vacation stays such as houses, villas, and farmhouses. Users can also add and manage their own property listings, making it a complete accommodation booking platform.
 
